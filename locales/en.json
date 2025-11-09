@@ -1,0 +1,7 @@
+{
+    "blip_name": "Mine",
+    "notify_no_pickaxe": "You don't have the pickaxe",
+    "notify_cancel": "You stopped mining",
+    "progress_label": "Mining...",
+    "target_label": "Start Mining"
+}
